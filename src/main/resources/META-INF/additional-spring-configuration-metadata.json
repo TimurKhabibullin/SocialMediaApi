@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "springdoc.packages-to-scan",
+      "type": "java.lang.String",
+      "description": "Description for springdoc.packages-to-scan."
+  }
+] }
